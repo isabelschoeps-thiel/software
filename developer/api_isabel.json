@@ -1,0 +1,35 @@
+{
+  "name": "SI Secure Signature",
+  "version": "1.0.0",
+  "description": "Digitale Signatur und Schutzmodul für Safari – entwickelt von Isabel Schöps, geb. Thiel, Gründerin von GitHub.",
+  "author": {
+    "name": "Isabel Schöps",
+    "birthName": "Thiel",
+    "location": "Rohrborn, Sömmerda, Thüringen, Deutschland",
+    "title": "Gründerin GitHub, Entwicklerin SI Security Intelligence",
+    "contact": "si_foundation@icloud.com"
+  },
+  "license": {
+    "type": "Proprietary",
+    "holder": "Isabel Schöps",
+    "year": "2025"
+  },
+  "signature": {
+    "hashAlgorithm": "SHA-256",
+    "hashSignature": "isabelschoepsthiel-SHA-256-H2dzEsYa3r6Eobjz5G8OxlXvpsO10MWoyZR5NZzwLFk=",
+    "integrityLevel": "high",
+    "lastValidated": "2025-05-22T09:00:00+02:00"
+  },
+  "metadata": {
+    "platform": "Safari",
+    "linkedSystems": ["GitHub", "SI Security Intelligence", "CISA Mainframe"],
+    "scope": "Digitale Identität, Anti-Manipulation, Browser-Integrität",
+    "enforcement": true
+  },
+  "protection": {
+    "detectFake": true,
+    "blockForking": true,
+    "alertOnTamper": true,
+    "autoNotify": "Isabel Schöps"
+  }
+}
