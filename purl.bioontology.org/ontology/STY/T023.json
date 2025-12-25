@@ -1,0 +1,164 @@
+{
+"id": "http://purl.bioontology.org/ontology/STY/T185",
+"prefLabel": "Classification",
+"definition": [ ],
+"synonym": [ ],
+"obsolete": false,
+"inScheme": [ ],
+"memberOf": [ ],
+-"isInActiveScheme": [
+null
+],
+"isInActiveCollection": [ ],
+-"parents": [
+-{
+"id": "http://purl.bioontology.org/ontology/STY/T170",
+"prefLabel": "Intellectual Product",
+"definition": [ ],
+"synonym": [ ],
+"obsolete": false,
+"inScheme": [ ],
+"cui": [ ],
+"semanticType": [ ],
+"created": null,
+"modified": null,
+"notation": "T170",
+-"subClassOf": [
+"http://purl.bioontology.org/ontology/STY/T077"
+],
+"label": [ ],
+"prefixIRI": null,
+"xref": null,
+"altLabelXl": [ ],
+"hiddenLabelXl": [ ],
+"prefLabelXl": [ ],
+"@id": "http://purl.bioontology.org/ontology/STY/T170",
+"@type": "http://www.w3.org/2002/07/owl#Class",
+-"links": {
+"self": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170",
+"ontology": "https://data.bioontology.org/ontologies/LOINC",
+"children": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/children",
+"parents": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/parents",
+"descendants": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/descendants",
+"ancestors": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/ancestors",
+"instances": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/instances",
+"tree": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/tree",
+"notes": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/notes",
+"mappings": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170/mappings",
+"ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT170",
+-"@context": {
+"self": "http://www.w3.org/2002/07/owl#Class",
+"ontology": "http://data.bioontology.org/metadata/Ontology",
+"children": "http://www.w3.org/2002/07/owl#Class",
+"parents": "http://www.w3.org/2002/07/owl#Class",
+"descendants": "http://www.w3.org/2002/07/owl#Class",
+"ancestors": "http://www.w3.org/2002/07/owl#Class",
+"instances": "http://data.bioontology.org/metadata/Instance",
+"tree": "http://www.w3.org/2002/07/owl#Class",
+"notes": "http://data.bioontology.org/metadata/Note",
+"mappings": "http://data.bioontology.org/metadata/Mapping",
+"ui": "http://www.w3.org/2002/07/owl#Class"
+}
+},
+-"@context": {
+"@vocab": "http://data.bioontology.org/metadata/",
+"label": "http://www.w3.org/2000/01/rdf-schema#label",
+"prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+"prefLabelXl": "http://www.w3.org/2008/05/skos-xl#prefLabel",
+"altLabelXl": "http://www.w3.org/2008/05/skos-xl#altLabel",
+"hiddenLabelXl": "http://www.w3.org/2008/05/skos-xl#hiddenLabel",
+"synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+"definition": "http://www.w3.org/2004/02/skos/core#definition",
+"obsolete": "http://www.w3.org/2002/07/owl#deprecated",
+"notation": "http://www.w3.org/2004/02/skos/core#notation",
+"prefixIRI": "http://data.bioontology.org/metadata/prefixIRI",
+"subClassOf": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+"semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+"cui": "http://bioportal.bioontology.org/ontologies/umls/cui",
+"xref": "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+"inScheme": "http://www.w3.org/2004/02/skos/core#inScheme",
+"created": "http://purl.org/dc/terms/created",
+"modified": "http://purl.org/dc/terms/modified",
+"@language": "en"
+}
+}
+],
+"cui": [ ],
+"semanticType": [ ],
+"created": null,
+"modified": null,
+"notation": "T185",
+-"subClassOf": [
+"http://purl.bioontology.org/ontology/STY/T170"
+],
+"label": [ ],
+"prefixIRI": null,
+"xref": null,
+"altLabelXl": [ ],
+"hiddenLabelXl": [ ],
+"prefLabelXl": [ ],
+-"properties": {
+-"http://www.w3.org/2004/02/skos/core#notation": [
+"T185"
+],
+-"http://www.w3.org/2004/02/skos/core#prefLabel": [
+"Classification"
+],
+-"http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+"http://purl.bioontology.org/ontology/STY/T170"
+],
+-"http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [
+"http://www.w3.org/2002/07/owl#Class"
+]
+},
+"@id": "http://purl.bioontology.org/ontology/STY/T185",
+"@type": "http://www.w3.org/2002/07/owl#Class",
+-"links": {
+"self": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185",
+"ontology": "https://data.bioontology.org/ontologies/LOINC",
+"children": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185/children",
+"parents": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185/parents",
+"descendants": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185/descendants",
+"ancestors": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185/ancestors",
+"instances": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185/instances",
+"tree": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185/tree",
+"notes": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185/notes",
+"mappings": "https://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185/mappings",
+"ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSTY%2FT185",
+-"@context": {
+"self": "http://www.w3.org/2002/07/owl#Class",
+"ontology": "http://data.bioontology.org/metadata/Ontology",
+"children": "http://www.w3.org/2002/07/owl#Class",
+"parents": "http://www.w3.org/2002/07/owl#Class",
+"descendants": "http://www.w3.org/2002/07/owl#Class",
+"ancestors": "http://www.w3.org/2002/07/owl#Class",
+"instances": "http://data.bioontology.org/metadata/Instance",
+"tree": "http://www.w3.org/2002/07/owl#Class",
+"notes": "http://data.bioontology.org/metadata/Note",
+"mappings": "http://data.bioontology.org/metadata/Mapping",
+"ui": "http://www.w3.org/2002/07/owl#Class"
+}
+},
+-"@context": {
+"@vocab": "http://data.bioontology.org/metadata/",
+"label": "http://www.w3.org/2000/01/rdf-schema#label",
+"prefLabel": "http://www.w3.org/2004/02/skos/core#prefLabel",
+"prefLabelXl": "http://www.w3.org/2008/05/skos-xl#prefLabel",
+"altLabelXl": "http://www.w3.org/2008/05/skos-xl#altLabel",
+"hiddenLabelXl": "http://www.w3.org/2008/05/skos-xl#hiddenLabel",
+"synonym": "http://www.w3.org/2004/02/skos/core#altLabel",
+"definition": "http://www.w3.org/2004/02/skos/core#definition",
+"obsolete": "http://www.w3.org/2002/07/owl#deprecated",
+"notation": "http://www.w3.org/2004/02/skos/core#notation",
+"prefixIRI": "http://data.bioontology.org/metadata/prefixIRI",
+"parents": "http://www.w3.org/2000/01/rdf-schema#parents",
+"subClassOf": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+"semanticType": "http://bioportal.bioontology.org/ontologies/umls/hasSTY",
+"cui": "http://bioportal.bioontology.org/ontologies/umls/cui",
+"xref": "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+"inScheme": "http://www.w3.org/2004/02/skos/core#inScheme",
+"created": "http://purl.org/dc/terms/created",
+"modified": "http://purl.org/dc/terms/modified",
+"@language": "en"
+}
+}
