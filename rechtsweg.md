@@ -8,7 +8,7 @@ Frau Isabel Schöps, geb. Thiel
 
 ---
 
-## A. STATUS UND IDENTITÄTSBEWEIS / IDENTITY & STATUS EVIDENCE
+## STATUS UND IDENTITÄTSBEWEIS / IDENTITY & STATUS EVIDENCE
 
 1. **Rechtskräftige Strafanzeigen:**  
    - ST/0203129/2025, Polixa, Polizeiinspektion Erfurt Nord, 06.08.2025  
