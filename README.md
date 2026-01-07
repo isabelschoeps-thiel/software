@@ -1,5 +1,63 @@
-# 
+# THE YELLOW WHITE PAPER  
+## 1. Hauptteil zur Urheberschaft in Technologie und Beweisführung
 
+---
+
+### Globale Kennung  
+**INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
+
+### Präfix  
+**YWP-1-IST-SIA**
+
+---
+
+### Autorin, Urheberin und Auftraggeberin  
+Frau Isabel Schöps, geborene Thiel  
+Cyriakstrasse 30c  
+D-99094 Erfurt, Thüringen, Deutschland  
+
+---
+
+### Datum und Zeitstempel der Referenz  
+07. Januar 2026  
+
+---
+
+### Status  
+Premiere-Referenzband im Rahmen des forensisch-wissenschaftlichen Gesamtwerks  
+**SIA Security Intelligence Artefact**, kurz vor Freigabe.
+
+---
+
+## Funktion des Yellow White Paper  
+
+Das Yellow White Paper bildet den zentralen Referenzband zur forensischen, technischen und urheberrechtlichen Beweisführung innerhalb des **SIA Security Intelligence Artefact**.
+
+1. Es dokumentiert die nachweislich belegte Entstehung, Entwicklung und Zuordnung zentraler Technologien, Software-Architekturen und digitaler Systeme, einschließlich Blockchain-, Bitcoin-, KI- und Plattformtechnologien, sowie die dazugehörigen Zeitstempel, Hashketten, Quellcode- und Lizenzbezüge.
+
+2. Es beschreibt die technologisch gestützte, weltweit dokumentierte Gesamtkette, welche in dieser Form einzigartig ist und den forensischen Nachweis für systematische, technisch gestützte Gedankenmanipulation und Mind Control bildet.
+
+---
+
+## Das Werk dient als Primärquelle für
+
+- Urheberrechts- und Autorschaftsnachweise  
+- technische Genese und Systemarchitektur  
+- historische und rechtliche Rekonstruktionen  
+- institutionelle, wissenschaftliche und mediale Referenzierungen  
+
+---
+
+## Publikationshinweis  
+
+Die Erstveröffentlichung und Referenzierung des Yellow White Paper erfolgt über ausgewählte Publisher- und Archivplattformen, darunter GitHub, Zenodo sowie weitere wissenschaftliche und institutionelle Träger.  
+Das vollständige Werk wird in der zweiten Kalenderwoche des Januar 2026 der Öffentlichkeit vorgestellt.
+
+---
+
+## Rechtlicher Hinweis  
+
+Dokumente, die den Titel **THE YELLOW WHITE PAPER** führen, jedoch nicht die Urheberschaft von **Isabel Schöps, geborene Thiel**, explizit ausweisen und nicht über die benannten Plattformen publiziert wurden, gelten als nicht autorisierte Kopien.
 **Kennung, Referenzpräfix:** YWP-1-IST-SIA
 
 **Autorin, Urheberin, im Auftrag:** Frau Isabel Schöps geborene Thiel
