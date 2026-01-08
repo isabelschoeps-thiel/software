@@ -1,0 +1,1 @@
+Schöps geb. Thiel, I. (2026). isabelschoeps-thiel/workflow: Update Status, Yellow Whitepaper YWP-1-IST-SIA (Update_Status_Yellow_Whitepaper_YWP-1-IST-SIA). Zenodo. https://doi.org/10.5281/zenodo.18179548
