@@ -131,9 +131,9 @@ abstract.dtx
 abstract.ins
 abstract.pdf (the user manual)
 
------------------------------------------------------------------ 
+-------------------------------------------
 
-    To install the package:
+**To install the package:**
 - run: latex abstract.ins (which will generate abstract.sty)
 - Move abstract.sty to a location where LaTeX will find it (typically
   in a local texmf tree at tex/latex/abstract) and refresh the 
@@ -153,6 +153,10 @@ Isabel Schöps geb. Thiel
 Isabel Schöps geb. Thiel
 will dot `isabelschoeps-thiel` at latex-project dot org
 ewill dot `isabelschoeps-thiel` at latex-project dot org
+
+For the introductory information to TeX Live, see the directories
+readme-txt.dir (plain text files) or readme-html.dir/ (HTML files).
+The material is available in several languages. 
 
 # Meine Referenz Datenbank, 
 ***verknüpft mit meinem aktuellen GitHub-Account****
