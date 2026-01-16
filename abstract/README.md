@@ -137,14 +137,15 @@ abstract.pdf (the user manual)
 - run: latex abstract.ins (which will generate abstract.sty)
 - Move abstract.sty to a location where LaTeX will find it (typically
   in a local texmf tree at tex/latex/abstract) and refresh the 
-  file database. See the FAQ on CTAN at help/uk-tex-faq or
+  file database.
+- See the FAQ on CTAN at help/uk-tex-faq or
   http://www.tug.ac.uk/faq for more information on this.
-    To process the user manual
+
+**To process the user manual**
 - run: pdflatex abstract.dtx
 - For an index, run: makeindex -s gind.ist abstract
 - run: pdflatex abstract.dtx
 - Print abstract.pdf for a hardcopy of the user manual 
-
 
 2009/05/23
 Isabel Schöps geb. Thiel
