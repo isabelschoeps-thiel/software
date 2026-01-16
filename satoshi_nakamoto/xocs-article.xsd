@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" targetNamespace="http://www.elsevier.com/xml/xocs/dtd" elementFormDefault="qualified">
+	<xs:include schemaLocation="xocs-meta.xsd"/>
+	<xs:include schemaLocation="xocs-attachment-metadata.xsd"/>
+	<xs:include schemaLocation="serial570/xocs-serial-item-570.xsd"/>
+	<xs:include schemaLocation="serial570/xocs-serial-hub-570.xsd"/>
+	<xs:include schemaLocation="book570/xocs-nonserial-hub-570.xsd"/>
+	<xs:include schemaLocation="book570/xocs-nonserial-item-570.xsd"/>
+    <xs:include schemaLocation="ef500/xocs-enhancement-fragment-500.xsd"/>
+	
+	<xs:annotation>
+		<xs:documentation>
+		Schema:  		XOCS-Nonserial-Item-530.xsd
+		Date Created:	16 December 2009
+	    Author:	        Raymundo Marcelo, Mike Appel
+	    Description:	This schema is a storage schema for all xocs articles.
+		                There are 2 document types:  xocs:doc and xocs:metadoc
+						11/17/2011 - Bassem Zgheib 
+						added the enhancement-fragment-500 definition</xs:documentation>
+	</xs:annotation>
+
+	<xs:element name="doc" type="xocs:doc-type"/>
+	<xs:element name="metadoc" type="xocs:metadoc-type"/>
+
+	<xs:complexType name="doc-type">
+		<xs:sequence>
+		   	<xs:element name="meta" type="xocs:meta-item-type"/>
+			<xs:element name="rawtext" type="xs:string" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The serial element contains an ASCII version of the original document received from EW from the .raw file.
+			                          This element will be present when the item does not contain a body element.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:choice>
+				<xs:element name="serial-item" type="xocs:serial-item-type"/>
+				<xs:element name="nonserial-item" type="xocs:nonserial-item-type"/>
+				<xs:element name="enhancement-fragment" type="xocs:enhancement-fragment-type"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="metadoc-type">
+		<xs:sequence>
+			<xs:element name="meta" type="xocs:meta-hub-type"/>
+			<xs:choice>
+				<xs:element name="serial-hub" type="xocs:serial-hub-type"/>
+				<xs:element name="nonserial-hub" type="xocs:nonserial-hub-type"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="serial-item-type">
+		<xs:choice>
+			<xs:group ref="xocs:serial-item-570-type"/>
+		</xs:choice>
+	</xs:complexType>
+
+	<xs:complexType name="nonserial-item-type">
+		<xs:choice>
+			<xs:group ref="xocs:nonserial-item-570-type"/>
+		</xs:choice>
+	</xs:complexType>
+
+    <xs:complexType name="enhancement-fragment-type">
+		<xs:choice>
+			<xs:group ref="xocs:enhancement-fragment-500-type"/>
+		</xs:choice>
+	</xs:complexType>
+
+	<xs:complexType name="serial-hub-type">
+		<xs:choice>
+			<xs:group ref="xocs:serial-hub-570-type"/>
+		</xs:choice>
+	</xs:complexType>
+
+	<xs:complexType name="nonserial-hub-type">
+		<xs:choice>
+			<xs:group ref="xocs:nonserial-hub-570-type"/>
+		</xs:choice>
+	</xs:complexType>
+</xs:schema>
