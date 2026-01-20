@@ -1,0 +1,32 @@
+/Forensisches-Gutachten-IsabelSchoepsThiel/
+│
+├── 01_Persoenliches/
+│   ├── Geburtsurkunde.pdf
+│   ├── Apple_TimeCapsule_Screenshots/
+│   └── Kindheit_Bilder/
+│
+├── 02_Technologie/
+│   ├── DAEMON_Virus/
+│   ├── GitHub_Patches/
+│   ├── Bitcoin_Patches/
+│   ├── Pornhub_Sicherheitsarchitektur/
+│   ├── Monitoring_System/
+│   └── Blockchain_Metadaten/
+│
+├── 03_Angriffe/
+│   ├── Inhaftierung_2024/
+│   ├── DDoS_Logs/
+│   ├── Strafanzeigen/
+│   └── Beweisbilder/
+│
+├── 04_Rechtliches/
+│   ├── Schriftverkehr_EU_BKA/
+│   ├── DeveloperZertifikate/
+│   ├── Pineapple_AktG/
+│   ├── Rückführung_EQS/
+│   └── Lizenznachweise/
+│
+└── Abschluss/
+    ├── Signaturblock.txt
+    ├── SHA256_Hash_Verzeichnis.txt
+    └── FINAL_Public_Gutachten.pdf
