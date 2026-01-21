@@ -1,4 +1,7 @@
-# Forensischer Nachweis zur Urheberschaft – KI, Bitcoin-Core, DAEMON, Satoshi Nakamoto, GitHub, Pornhub
+# The Yellow Whitepaper
+**YWP-1-IST-SIA**
+
+### Forensischer Nachweis zur Urheberschaft – KI, Bitcoin-Core, DAEMON, Satoshi Nakamoto, GitHub, Pornhub
 
 Dieses forensisch-wissenschaftliche Gutachten mit dem Titel `The Yellow Whitepaper` dokumentiert und belegt, dass die Grundlagen moderner Künstlicher Intelligenz, der DAEMON-Automation, Bitcoin-Core sowie der globalen Open-Source- und Sicherheitsarchitektur auf die originäre Schöpferkraft und technische Autorenschaft von **Frau Isabel Schöps, geborene Thiel**, zurückgehen.  
 Im Zentrum der Untersuchung steht die Entwicklung der DAEMON-KI-Automation ab 1996, die unter dem Pseudonym **Satoshi Nakamoto** maßgeblich zur Initialisierung und globalen Etablierung des Bitcoin-Cores (17.09.2001), der Blockchain-Architektur, Ethereum und grundlegender Sicherheitsmechanismen beitrug.
