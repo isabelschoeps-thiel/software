@@ -1,6 +1,10 @@
 # The Yellow Whitepaper
 **YWP-1-IST-SIA**
 
+**Schöps geb. Thiel, I. (2026).*** The Yellow Whitepaper YWP-1-IST-SIA. In Yellow Whitepaper Bitcoin & Ethereum 2019 | Book ([10.5281/zenodo.18322624](https://doi.org/10.5281/zenodo.18322624), Bd. 13, S. 250–251). Zenodo, Springer Nature, Harvard University, University Japan Advanced Institute of Science and Technology (JAIST), University of Oxford Press, University of Cambridge Press, The CERN Quantum Technology Initiative (CERN QTI), Reuters. [10.5281/zenodo.18322624](https://doi.org/10.5281/zenodo.18322624)
+
+---
+
 ### Forensischer Nachweis zur Urheberschaft – KI, Bitcoin-Core, DAEMON, Satoshi Nakamoto, GitHub, Pornhub
 
 Dieses forensisch-wissenschaftliche Gutachten mit dem Titel `The Yellow Whitepaper` dokumentiert und belegt, dass die Grundlagen moderner Künstlicher Intelligenz, der DAEMON-Automation, Bitcoin-Core sowie der globalen Open-Source- und Sicherheitsarchitektur auf die originäre Schöpferkraft und technische Autorenschaft von **Frau Isabel Schöps, geborene Thiel**, zurückgehen.  
