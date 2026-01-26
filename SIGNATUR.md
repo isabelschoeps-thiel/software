@@ -10,7 +10,7 @@ Die Eidesstattliche Erklärung, ist Bestandteil des forensisch, wissenschaftlich
 `SIA Security Intelligence Artefact
 internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
 
-***Wichtiger-Vermerk:** Aufgrund das die von mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, zum Verkauf angeboten wurde und in der ich auch gemeldet bin. So musste ich diese verlassen und eine Nacht von Freitag den 23.Januar2026 auf bei gefühlten -20 Crad gemeinsam mit meinem Hund-Tier American XL Bully Don, draussen auf der Strasse schlafen. 
+**Wichtiger-Vermerk:** Aufgrund das die von mir bewohnte Immobilie, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, zum Verkauf angeboten wurde und in der ich auch gemeldet bin verlassen. `So musste ich diese verlassen und eine Nacht von Freitag den 23.Januar2026 auf Samstag den 24.Januar2026, bei gefühlten -20 Crad gemeinsam mit meinem Hund-Tier American XL Bully Don, draussen auf der Strasse schlafen.`
 
 ![7E228765-F1F2-4A2E-BED8-3CF7E425A129](https://github.com/user-attachments/assets/262f3fa7-1533-4f72-936b-67aa1ccacada)
 ![IMG_1191](https://github.com/user-attachments/assets/0ad3e2ed-eb0f-4bb2-9c3d-a5e97e311cac)
